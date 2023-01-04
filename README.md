@@ -1,12 +1,14 @@
 # How to Create Network Resources in OCI (Oracle Cloud) with Terraform
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
+Blog --> https://gmusumeci.medium.com/getting-started-with-terraform-and-oci-oracle-cloud-part-1-creating-network-resources-800eb404c628
+
 This code:
 
 * Define the OCI Provider for Terraform
 * Create a compartment
 * Create a Virtual Cloud Network (VCN)
-* Create a Private and Public Subnets
+* Create Private and Public Subnets
 * Deploy an Internet Gateway
 * Deploy a NAT Gateway
 * Create Route Tables
