@@ -1,4 +1,5 @@
-# How to Create Network Resources in OCI (Oracle Cloud) with Terraform
+# Getting Started with Terraform and OCI (Oracle Cloud)
+# How to Create Network Resources in OCI
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
 Blog --> https://gmusumeci.medium.com/getting-started-with-terraform-and-oci-oracle-cloud-part-1-creating-network-resources-800eb404c628
